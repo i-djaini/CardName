@@ -23,7 +23,7 @@ main {
 
 .card {
   height: 45rem;
-  width: 27rem;
+  width: 26rem;
   background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
   border-radius: 20px;
   transition: all .3s;
@@ -31,7 +31,7 @@ main {
 
 .card2 {
   height: 45rem;
-  width: 27rem;
+  width: 26rem;
   background-color: #1a1a1a;
   transition: all .2s;
 }
